@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Snake" targetName="Snake" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7a98f6c-58bc-4b6b-bcdb-2f5c5601af1e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1ZhxcqNH063Tpyyu2i6pnMUw98N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.jest.jest_package" value="" />
+    <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Snake" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Snake" TARGET_NAME="Snake" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Snake" RUN_TARGET_NAME="Snake">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7a98f6c-58bc-4b6b-bcdb-2f5c5601af1e" name="Default Changelist" comment="" />
+      <created>1585305208401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585305208401</updated>
+      <workItem from="1585305210096" duration="22148000" />
+      <workItem from="1585338176109" duration="91000" />
+      <workItem from="1585389970787" duration="784000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="181" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585327934840">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="181" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585327934840" />
+    <state x="790" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1585317585072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="790" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585317585072" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585315767144">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1585315767144" />
+    <state x="863" y="281" key="#com.intellij.tools.ToolEditorDialog" timestamp="1585327925096">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="863" y="281" key="#com.intellij.tools.ToolEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1585327925096" />
+    <state x="743" y="169" key="FileChooserDialogImpl" timestamp="1585327752137">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="743" y="169" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585327752137" />
+    <state width="1493" height="375" key="GridCell.Tab.0.bottom" timestamp="1585338271365">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="375" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585338271365" />
+    <state width="1493" height="375" key="GridCell.Tab.0.center" timestamp="1585338271364">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="375" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585338271364" />
+    <state width="1493" height="375" key="GridCell.Tab.0.left" timestamp="1585338271364">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="375" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585338271364" />
+    <state width="1493" height="375" key="GridCell.Tab.0.right" timestamp="1585338271365">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="375" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585338271365" />
+    <state width="733" height="260" key="GridCell.Tab.1.bottom" timestamp="1585328434553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="733" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585328434553" />
+    <state width="733" height="260" key="GridCell.Tab.1.center" timestamp="1585328434553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="733" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585328434553" />
+    <state width="733" height="260" key="GridCell.Tab.1.left" timestamp="1585328434553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="733" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585328434553" />
+    <state width="733" height="260" key="GridCell.Tab.1.right" timestamp="1585328434553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="733" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585328434553" />
+    <state x="279" y="58" key="SettingsEditor" timestamp="1585391870609">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585391870609" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1585389971100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585389971100" />
+    <state x="987" y="171" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1585327926790">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="987" y="171" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.0.1536.824@0.0.1536.824" timestamp="1585327926790" />
+  </component>
+</project>
